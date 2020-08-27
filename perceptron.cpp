@@ -1,3 +1,8 @@
+/*
+May 2020
+Implement Perceptron Learning Algorithm
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>

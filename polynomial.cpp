@@ -1,3 +1,8 @@
+/*
+Sep 2019
+Implement Newton's root-finding algorithm for polynomials
+*/
+
 #include <algorithm>
 #include <iostream>
 #include <cmath>

@@ -1,3 +1,8 @@
+/*
+Apr 2020
+Set up linear program to find Chebyshev center of polygon
+*/
+
 #include <vector>
 #include <iostream>
 #include <utility>

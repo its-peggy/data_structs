@@ -1,6 +1,6 @@
 /*
 Oct 2019
-Solution to general Josephus problem + implementation of Floyd's cycle-finding algorithm
+Implement solution of general Josephus problem + implement Floyd's cycle-finding algorithm
 */
 
 #include <vector>

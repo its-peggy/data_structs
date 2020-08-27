@@ -1,3 +1,8 @@
+/*
+Nov 2019
+Generate solutions of generalized Towers of Hanoi puzzle (>3 towers)
+*/
+
 #include <vector>
 #include <iostream>
 #include <climits>

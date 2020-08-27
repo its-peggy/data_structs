@@ -1,6 +1,6 @@
 /*
 Jan 2020
-Solves 2-SAT using CNF and SCCs
+Solve 2-SAT using CNF and SCCs
 */
 
 #include <vector>

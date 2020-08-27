@@ -1,3 +1,10 @@
+/*
+Feb 2020
+Generate solutions to 3D polycube puzzles
+Ref: Knuth's "Dancing Links"
+https://arxiv.org/pdf/cs/0011047.pdf
+*/
+
 #include <vector>
 #include <array>
 #include <iostream>

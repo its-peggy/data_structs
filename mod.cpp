@@ -1,3 +1,8 @@
+/*
+Sep 2019
+Implement Mod class
+*/
+
 #include "mod.h"
 
 Mod::Mod(long t) {

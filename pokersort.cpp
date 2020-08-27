@@ -1,3 +1,8 @@
+/*
+Nov 2019
+Implement an efficient comparison and sort of encoded five-card poker hands
+*/
+
 #include <vector>
 #include <iostream>
 #include <cmath>
